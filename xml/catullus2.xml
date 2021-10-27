@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="file:/C:/Users/cevcl/Music/latingrammarschema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<collection>
+<collection xmlns="http://clementcat.github.io/ns/1.0”>
     <author>Gaius Valerius Catullus</author>
     <collection_title>Carmina</collection_title>
     <poem>
