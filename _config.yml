@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Cat Clement"
-  avatar           : "Squidward-1422477764.png"
+  avatar           :"https://raw.githubusercontent.com/[clementcat]/[clementcat].github.io/master/images/[Squidward-1422477764].png"
   bio              : "Chocolate milk enthusiast and digital humanities student"
   location         : "Boston"
   employer         :
